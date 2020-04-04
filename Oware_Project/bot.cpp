@@ -113,7 +113,6 @@ int maxElementIndex(vector<int> v) {
 		if (v.at(i) >= max_n) {
 			max_n = v.at(i);
 			max_i = (int) i;
-			//test right here
 		}
 	}
 	if (max_n <= 0) return -1;
