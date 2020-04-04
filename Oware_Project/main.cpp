@@ -3,8 +3,12 @@
 
 Player a("first", BLUE, 'A'); Player b("last", GREEN, 'B');
 
+/*
+GITHUB VS2019 INTEGRATION TEST
 //THIS IS A TEST.
 //THIS SHOULD ONLY APPEAR IN THE DEV BRANCH VERSION.
+//THIS WAS LATER MERGED INTO MASTER.
+*/
 
 /** Calls intro and then loops while no player has won. Finally, jumps to endgame.
 */
