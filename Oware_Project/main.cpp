@@ -3,6 +3,9 @@
 
 Player a("first", BLUE, 'A'); Player b("last", GREEN, 'B');
 
+//THIS IS A TEST.
+//THIS SHOULD ONLY APPEAR IN THE DEV BRANCH VERSION.
+
 /** Calls intro and then loops while no player has won. Finally, jumps to endgame.
 */
 int main()
